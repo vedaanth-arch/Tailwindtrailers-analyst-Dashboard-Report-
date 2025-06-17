@@ -20,3 +20,10 @@ Key Features
     Power BI Desktop
     Microsoft Excel (Data source)
     DAX (for calculated columns/measures)
+
+## 📄 License and Credits
+
+This project uses sales data from the following GitHub repository:  
+🔗 [Power BI Data Analyst Capstone Project by itibaraydemiruslu](https://github.com/itibaraydemiruslu/powerbi-data-analyst-capstone-project)
+
+Data is licensed under the [MIT License](LICENSE).
